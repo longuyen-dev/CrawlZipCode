@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{D2871B73-1466-4729-963C-E829CBA628DF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="crawlerTest/Program.cs">
+    <Files>
+      <File FileName="crawlerTest/Program.cs" Line="49" Column="50" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.crawlerTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
